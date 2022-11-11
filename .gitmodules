@@ -1,6 +1,7 @@
-[submodule "bayut-server"]
-	path = server
+[submodule "bayut-server2"]
+	path = bayut-server1
 	url = https://github.com/yousefhany77/bayut-server
+
 [submodule "bayut-clone"]
 	path = client
 	url = https://github.com/yousefhany77/bayut-clone
