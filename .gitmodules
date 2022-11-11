@@ -1,0 +1,6 @@
+[submodule "bayut-server"]
+	path = bayut-server
+	url = https://github.com/yousefhany77/bayut-server
+[submodule "bayut-clone"]
+	path = bayut-clone
+	url = https://github.com/yousefhany77/bayut-clone
